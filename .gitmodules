@@ -1,0 +1,3 @@
+[submodule "takagokakegohan_com_frontend"]
+	path = takagokakegohan_com_frontend
+	url = git@github.com:moguDev/takagokakegohan_com_frontend.git
