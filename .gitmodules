@@ -1,3 +1,6 @@
 [submodule "takagokakegohan_com_frontend"]
 	path = takagokakegohan_com_frontend
 	url = git@github.com:moguDev/takagokakegohan_com_frontend.git
+[submodule "tamagokakegohan_com_backend"]
+	path = tamagokakegohan_com_backend
+	url = git@github.com:potatoman-dev/tamagokakegohan_com_backend.git
